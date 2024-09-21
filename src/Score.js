@@ -60,7 +60,7 @@ function handletotal(){
         
     }
     else if(sum>500){
-        alert("Please enter a valid marks"+" "+(uname))
+        alert("Please enter a valid marks"+" "+(uname)+" "+" Try again!")
 
     }
     else{

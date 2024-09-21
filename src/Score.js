@@ -59,6 +59,10 @@ function handletotal(){
         alert("Please enter your marks"+" "+(uname))
         
     }
+    else if(sum>500){
+        alert("Please enter a valid marks"+" "+(uname))
+
+    }
     else{
           
         alert("Congrats"+" "+(uname)+"! Keep it up!"+" Your score is:"+" "+(sum)+"/500")
